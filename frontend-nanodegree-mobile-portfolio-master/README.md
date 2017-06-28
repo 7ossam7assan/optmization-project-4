@@ -1,7 +1,9 @@
 # Website Performance Optimization portfolio:Udacity Project 4
 
 ## To achive better performace you need to  
-1) Use inline css 2)Use inline bootstrap library.
+* Use inline css 
+
+* Use inline bootstrap library.
 
 
 ## To achive Optimization to Pizza 
