@@ -13,7 +13,7 @@
 
 * Changed all objects of querySelector
 
-# How to run Clone repository and open index.html in any browser or visit my [GitHub Page](https://github.com/7ossam7assan/optmization-project-4/tree/master/frontend-nanodegree-mobile-portfolio-master)
+# How to run Clone repository and open index.html in any browser or visit my [GitHub Page](https://github.com/7ossam7assan/optmization-project-4/tree/master/frontend-nanodegree-mobile-portfolio-master/frontend-nanodegree-mobile-portfolio-master)
 
 #Author
 Hossam Hassan
