@@ -9,7 +9,7 @@
 
 2) Move the document.body request out of for loop in the changePizzaSizes function. 3) Changed all objects of querySelector
 
-# How to run Clone repository and open index.html in any browser or visit my [GitHub Page](https://github.com/7ossam7assan/feed-reader-project/tree/master/feed)
+# How to run Clone repository and open index.html in any browser or visit my [GitHub Page](https://github.com/7ossam7assan/optmization-project-4/tree/master/frontend-nanodegree-mobile-portfolio-master)
 
 #Author
 Hossam Hassan
